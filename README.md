@@ -12,4 +12,3 @@
 - Basic Math Operations
 - Also created its notebook in Google Colab
 - [Link for Colab Notebook] https://colab.research.google.com/drive/19vBkEsvDDHc__T7K0DDK1JEFJuXnCrW4?usp=sharing
-- 
