@@ -4,7 +4,7 @@
 - Learned Python fundamentals: variables, loops, and lists
 - Practiced printing and basic math operations
 - First notebook created in Google Colab
-  [Link for Colab Notebook](https://colab.research.google.com/github/DakshVerma01/AI_ML_Portfolio/blob/main/Day1_python_%20basics.ipynb)
+  [Link for Colab Notebook] https://colab.research.google.com/drive/1NPYZWWc0b_r5GPhdbLryRBVvzfjZ71TK?usp=sharing
   
 # Day 2 - Python Practice 
 - Printing in Python
