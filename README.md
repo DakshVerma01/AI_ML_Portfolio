@@ -26,3 +26,24 @@
 
 ### 💡 Key Takeaway
 Today I learned how Python can store information, perform simple calculations, and interact with users by asking for input.
+
+# Day 15. Expense Tracker (My first working project.)
+
+This is a beginner-friendly Python project that tracks daily expenses and saves them to a text file.  
+It demonstrates Python concepts up to **file handling**, including:
+
+- Variables and Data Types  
+- Loops and Conditional Statements  
+- Functions  
+- Lists and Dictionaries  
+- File Handling (read/write operations)
+
+## How to Run
+1. Clone this repo
+2. Run the Python script
+3. Enter your expenses and view them saved in `expenses.txt`
+
+Link for colab :- https://colab.research.google.com/drive/1Gp9I93dXt5_41Otz4GfJLHfDn_TJdQkk?usp=sharing
+
+## Purpose
+This project shows understanding of ~70% of Python fundamentals up to file handling.
